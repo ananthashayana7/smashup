@@ -1,0 +1,5 @@
+{
+  "name": "Smash Up Derby: Neon Arena",
+  "description": "A high-octane 2D physics-based car combat game where you ram AI opponents to be the last vehicle standing. Features real-time AI commentary powered by Gemini.",
+  "requestFramePermissions": []
+}
